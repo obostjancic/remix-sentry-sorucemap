@@ -1,0 +1,6 @@
+[auth]
+token=my-token
+
+[defaults]
+org=ogis-sentry
+project=javascript-remix
